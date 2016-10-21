@@ -1,0 +1,114 @@
+body{width: 100%;height: 100%;position: relative;}
+.mask{display: none;width: 100%;height: 100%;background: #000;z-index:99;position: absolute;left: 0;top:0;opacity:0.7;filter:alpha(opacity=70);}
+.login_box{display: none;margin:0 auto;position: fixed;left:50%;top:50%;z-index:100;margin-left: -200px;margin-top: -170px;}
+.login_box .quit{width: 20px;height: 20px;position: absolute;right: 0;top: 0;background: #fff;font-size:25px;color:#ccc;margin-top: 25px;margin-right: 25px;cursor: pointer;}
+.detail_btn_login{border:0;outline:none;display: block;width: 100%;height: 48px;cursor: pointer;text-align: center;color: #fff;background: #b4a078;font-size: 18px;line-height: 48px;border-radius: 2px;}
+
+.details_wrap{width: 100%;margin-top: 30px;overflow: hidden;border-bottom:2px solid #ccc;}
+.details{padding-top: 20px;padding-bottom: 80px;width: 1093px;margin:0 auto;overflow: hidden;}
+
+.details_tit a{color:#333;}
+.details_tit a:hover{text-decoration: underline;}
+.details_tit .detail_name{color:#999;}
+.details_tit .w_icon{margin: 2px 5px 0;display: inline-block;width: 5px;height: 9px;background:url(../images/header.png) no-repeat 0 0;}
+
+.detail_top{padding-top: 30px;padding-bottom: 20px;overflow: hidden;}
+.side{width: 524px;overflow: hidden;}
+.side .view{width: 430px;height: 430px;border: 1px solid #e8e8e8; margin-right: 16px;}
+.side .view img{display: block;width: 428px;height: 428px;background-color: #f4f4f4;}
+.side .list_img ul li{width: 78px;height: 78px;overflow: hidden;margin-bottom: 10px;display: list-item;}
+.side .list_img ul li a{display: block;width: 78px;height: 78px;border: 1px solid #e8e8e8;}
+.side .list_img ul li a img{display: block;width: 100%;height: 100%;}
+
+.detail_info{width: 566px;padding-left: 62px;word-break: break-all;word-wrap: break-word;}
+.intro_name{font-weight: normal;line-height: 20px;margin-top: 16px;width: 54px;font-size: 12px;float: left;color: #666;margin-left: 10px;}
+.detail_intro p{font-size: 12px;padding-bottom: 20px;padding-top: 13px;line-height: 18px;color: #999;}
+.detail_intro .intro_tit{font-size: 20px;font-weight: 700;line-height: 20px;margin-bottom: 7px;}
+
+.detail_sale{background-color: #f5f3ef;border-top: 1px dotted #dedede;border-bottom: 1px dotted #dedede;padding: 15px 0;line-height: 24px;}
+.detail_sale .price{height: 45px;overflow: hidden;}
+.detail_sale .price .j_price{font-weight: 700;margin-right: 1px;margin-top: 13px;margin-left: 0;height: 30px;font-size: 28px;line-height: 30px;margin-left: 2px;color: #d7282d;}
+.detail_sale .price .j_price i{margin-left: 0;line-height: 30px;color: #d7282d;font-size: 18px;font-style: normal;}    
+
+.detail_sale .f_sale{overflow: hidden;}
+.detail_sale .f_sale span{margin-top: 7px;}
+.detail_sale .f_sale a{line-height: 28px;width: 346px;color: #d4282d;text-decoration: underline;width: 400px;height: 28px;display: inline-block;word-break: normal;word-wrap: normal;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.detail_sale .f_sale a i{background-color: #d7282d;color: #fff;display: inline-block;width: 55px;height: 18px;line-height: 18px;font-size: 12px;text-align: center;position: relative;margin-right: 10px;}
+
+.detail_sale .server{overflow: hidden;margin-top: 8px;}
+.detail_sale .server .d_icon{color: #666;float: left; margin: 0 16px 0 0;line-height: 24px;font-size: 12px;}
+.detail_sale .server .intro_name{margin-top: 2px;}
+.detail_sale .server span{float: left;}
+
+.detail_color{margin-top:20px;overflow: hidden;}
+.detail_color div{width: 438px;}
+.detail_color ul li{width: 50px;height: 50px;border: 1px solid #ddd;float: left;margin-bottom: 10px;cursor: pointer;margin-right: 10px;position: relative;}
+.detail_color ul li i{display: block;position: absolute;bottom: 0;right: 0;background:url(../images/background.png) no-repeat 0 -3392px;height: 12px;width: 12px;display: none;}
+
+.detail_number{margin-top: 10px;margin-bottom: 30px;overflow: hidden;}
+.detail_number .intro_name{margin-top: 3px;}
+.detail_number .num_box{float:left;border: 1px solid #ddd; overflow: hidden;width: 134px;height: 30px;}
+.detail_number .num_box .reduce{border-right: 1px solid #ddd;float: left;width: 36px;height: 30px;line-height: 28px;background: #fff;text-align: center;}
+.detail_number .num_box input{float: left;width: 60px;height: 30px;line-height: 28px;border:0;outline:none;text-align:center;}
+.detail_number .num_box .add{border-left: 1px solid #ddd;float: left;width: 36px;height: 30px;line-height: 28px;text-align: center;}
+.detail_number .num_box span{cursor: pointer;}
+.detail_number .num_box span i{font-size:18px;color:#999;font-weight: bold;}
+
+.detail_btn{overflow: hidden;margin-left: 12px;margin-top: 30px;width: 492px;height: 50px;}
+.detail_btn a{float: left;margin-right: 10px;width: 168px;height: 49px;line-height: 47px;font-size: 18px;border-radius: 3px;}
+.detail_btn .buy{text-align: center;color: #b4a078;border: 1px solid #b4a078;background-color: #f5f3ef;}
+.detail_btn .buy:hover{color: #c0ae8a;border: 1px solid #c0ae8a;background-color: #fff;}
+.detail_btn .j_cart{color: #fff;border: 1px solid #b4a078;background-color: #b4a078;text-align: center;}
+.detail_btn .j_cart:hover{color: #fff;border: 1px solid #c0ae8a;background-color: #c0ae8a;}
+
+/* 大家都在看 */
+.m_recommend{width: 100%;overflow: hidden;border: 1px solid #e8e8e8;margin-top: 20px;}
+.rec_title{height: 44px;line-height: 44px;text-indent: 18px;font-size: 17px;background-color: #f5f5f5;}
+.recommend_wrap{overflow: hidden;position: relative;height: 276px;}
+.recommend{width: 960px;overflow: hidden;position: relative;margin:0 auto;height: 265px;}
+.recommend ul{width: 1920px;position: absolute;left:0;}
+.recommend ul li{width: 210px;text-align: center;float: left;margin-left: 30px;}
+.recommend ul li a{display: block;overflow: hidden;}
+.recommend ul li h3{margin-bottom: 6px;height: 20px;line-height: 22px;}
+.recommend ul li h3 a{color:#333;font-weight: bold;font-size: 13px;}
+.recommend ul li h3 a:hover{color:#b4a078;}
+.recommend ul li p{color: #d4282d;margin-bottom: 10px;text-align: center;font-size:13px;}
+
+.prev{ cursor: pointer;color:#ccc;font-size:45px;position: absolute;left: 26px;width: 45px;height: 45px;top: 50%;margin-top: -22px;}
+.next{ cursor: pointer;color:#ccc;font-size:45px;right: 26px; position: absolute; width: 45px;height: 45px;top: 50%;margin-top: -22px;}
+
+.detail_bottom{overflow: hidden;margin-top: 15px;}
+.xq_pl{width: 750px;margin-right: 40px;padding-top: 30px;}
+.nav_tab{border-left: 1px solid #e8e8e8;overflow: hidden;}
+.nav_tab li{line-height:42px;float: left;width: 170px;text-align: center;border: 1px solid #e8e8e8;border-left: none;background-color: #f5f5f5;height: 42px;}
+.nav_tab .emp{width: 409px;}
+.nav_tab li a{color:#333;font-size:14px;display: block;}
+.nav_tab li a:hover{color:#b4a078;}
+.nav_tab li a span{color: #b4a078;}
+.nav_tab .change_bor{border-top: 3px solid #b4a078;background-color: #fff;border-bottom:0;}
+
+.xq{margin-top: 20px;}
+.xq .j_attrlist{margin-bottom: 17px;overflow: hidden;}
+.xq .j_attrlist li{overflow:hidden;padding: 10px 30px;float: left;min-width: 50%;border-bottom: 1px dashed #e8e8e8;}
+.xq .j_attrlist li .name{width: 105px;float: left;padding: 0;font-size: 14px;}
+.xq .j_attrlist li .value{color: #999;float: left;font-size: 14px;}
+.xq .j_attrlist .bor_0{border: 0;}
+.pl{min-height: 842px;border: 1px solid #e8e8e8;border-top: none;display: none;}
+.pl .pl_top{border-bottom: 1px solid #eaeaea; margin: 0 14px;padding-top: 28px;padding-bottom: 12px; overflow: hidden;}
+.pl .pl_top div{float: left;margin-left: 23px;}
+.pl .pl_top div label{margin-left: 10px;font-size:14px;}
+.pl .pl_top .all label{color:#b4a078;}
+.pl_content li{padding: 30px 0;margin-left: 30px;margin-right: 23px;border-bottom: 1px dashed #e8e8e8;overflow: hidden;}
+.pl_content li .pl_user{width: 70px;}
+.pl_user .touxiang{width: 50px;height: 50px;margin:0 auto;}
+.pl_user .touxiang img{width: 100%;height: 100%;border-radius: 100%;}
+.pl_user h4{text-align: center;margin-top: 10px;}
+.pl_intro{margin-left: 20px;padding-top: 18px;width: 603px;}
+.talk{line-height: 1.5;font-size: 14px;}
+.pl_intro .date{margin-top: 16px;color: #999;font-size: 12px;line-height: 1;overflow: hidden;}
+
+.zhuanti{width: 300px;border: 1px solid #e8e8e8;margin-top: 30px;}
+.zhuanti .hd{line-height: 41px;background-color: #f5f5f5;font-size: 18px;text-align: center;font-weight: 700;border-bottom: 1px solid #e8e8e8;}
+.zhuanti .bd{padding: 30px 19px;}
+.zhuanti .bd li{position:relative;margin-bottom: 20px;}
+.zhuanti .bd .text{ position: absolute;bottom: 0;left: 0;width: 100%;line-height: 30px;text-align: center;font-size: 14px;color: #fff;background-color: transparent;background-color: rgba(0,0,0,.7);}

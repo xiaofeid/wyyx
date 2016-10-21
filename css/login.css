@@ -1,0 +1,25 @@
+.main{margin-top: 30px;width: 100%;height: 600px;overflow: hidden;position: relative;z-index:10;background: url(../images/bg.jpg) no-repeat;}
+.login_wrap{width: 1093px;margin:0 auto;position: relative;overflow: hidden;}
+.login_box{margin-top: 83px;margin-left: 703px;border: 1px solid #e8e8e8;width: 386px;padding: 0 40px; background: #fff;min-height: 460px;height: auto!important;}
+.login_box .title{padding:30px 0;font-size:18px;font-weight: bold;margin-left: 20px;}
+.inputbox{width: 100%;height: 38px;border: 1px solid #e8e8e8;line-height: 38px;border-radius: 2px;    background: #fff;margin-bottom: 10px;}
+.inputbox input{  float: left;  padding: 1px 0px;height: 32px;line-height: 36px;padding-left: 8px;width: 230px; font-size: 14px;font-weight: normal;border:0;outline: none;}
+.inputbox i{ display: block;   border-right: 1px solid #e8e8e8;float: left;width: 29px;text-align: center;margin: 7px 0 7px 7px;height: 24px;background: url(../images/login.png) no-repeat;}
+.user_cont i{background-position:0 -454px; }
+.pass_cont i{background-position:0 -334px; }
+.inputbox span{float: left;background: url(../images/sprite2.png) no-repeat -143px -80px;display: inline-block;width: 30px;height: 36px;visibility:hidden;cursor: pointer;}
+.warn{background: url(../images/background.png) no-repeat 0 -119px;color:#d4282d;padding-left: 30px;height: 20px;line-height:20px;margin-bottom: 20px;display:none;}
+.btn_login{border:0;outline:none;display: block;width: 100%;height: 48px;cursor: pointer;text-align: center;color: #fff;background: #b4a078;font-size: 18px;line-height: 48px;border-radius: 2px;}
+.unlogin{margin-top: 20px;margin-bottom: 30px;overflow: hidden;}
+.unlogin a{color:#999;}
+.unlogin a:hover{color:#666;}
+.otitle{text-align: center;color:#999;font-size: 14px;}
+.ologin{margin: 0;padding-top: 30px;height: 80px;text-align: center;color: #9fabbf;width: 100%;}
+.ologin a{color:#999;display: inline-block;height: auto;width:80px;padding: 37px 22px 0 22px;margin: 0;text-align: center;background: url(../images/background.png) no-repeat;}
+.ologin a:hover{color:#b4a078;}
+.ologin .wx{background-position: 24px -4303px;}
+.ologin .wx:hover{background-position: 24px -4238px;}
+.ologin .qq{background-position: 24px -4099px;}
+.ologin .qq:hover{background-position: 24px -4034px;}
+.ologin .wb{background-position: 24px -4201px;}
+.ologin .wb:hover{background-position: 24px -4137px;}

@@ -1,0 +1,33 @@
+{
+	"result":[
+		{
+			"new_title":"牛皮复古公文包",
+			"new_price":"￥599",
+			"new_img":"images/main/new1.jpg",
+			"new_producer":"",
+			"product_id":"001"
+		},
+		{
+			"new_title":"葫芦形化妆海绵",
+			"new_price":"¥39",
+			"new_img":"images/main/new2.jpg",
+			"new_producer":"Ralph Lauren制造商",
+			"product_id":"002"
+		},
+		{
+			"new_title":"竹制擀面杖",
+			"new_price":"¥9.9",
+			"new_img":"images/main/new3.jpg",
+			"new_producer":"",
+			"product_id":"003"
+		},
+		{
+			"new_title":"4色可选 铸铁珐琅圆锅22cm",
+			"new_price":"￥268",
+			"new_img":"images/main/new4.jpg",
+			"new_producer":"",
+			"product_id":"004"
+		}
+
+	]
+}

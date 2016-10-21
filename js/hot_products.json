@@ -1,0 +1,35 @@
+{
+	"result":[
+		{
+			"hot_title":"6双 皮马棉男绅士袜",
+			"hot_price":"¥69",
+			"hot_img":"images/hot/hot1.png",
+			"product_id":"005"
+		},
+		{
+			"hot_title":"4色可选 2条 男式基础平角内裤",
+			"hot_price":"¥59",
+			"hot_img":"images/hot/hot2.png",
+			"product_id":"006"
+		},
+		{
+			"hot_title":"夏日甜心80cm大公仔",
+			"hot_price":"¥329",
+			"hot_img":"images/hot/hot3.png",
+			"product_id":"007"
+		},
+		{
+			"hot_title":"4色可选 日式简约纯色舒棉绒拖鞋",
+			"hot_price":"¥39",
+			"hot_img":"images/hot/hot4.png",
+			"product_id":"008"
+		},
+		{
+			"hot_title":"4色可选 牛津纺英式经典衬衫",
+			"hot_price":"¥149",
+			"hot_img":"images/hot/hot5.png",
+			"product_id":"009"
+		}
+
+	]
+}

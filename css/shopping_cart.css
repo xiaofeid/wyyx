@@ -1,0 +1,39 @@
+input[type='checkbox']{width: 18px;height: 18px;margin-right: 10px;}
+.shopping{width: 1093px;margin:0 auto;}
+.cart_name{margin-bottom: 30px;}
+.cart_tit{margin-left: 0;margin-right: 0;text-align: center;margin-bottom: 20px;padding: 15px 0;border: 1px solid #ddd;background-color: #f5f5f5;}
+.cart_tit div span{padding-top: 5px;display: block;}
+.check{text-align: left;}
+.check_box{overflow: hidden;}
+.check_box input{float: left;}
+.check_box span{float: left;padding-top: 5px;margin-left: 10px;}
+.cart_group{border: 1px solid #ddd;margin-bottom: 10px;text-align: center;}
+.item_list{padding:25px 15px;border-bottom:1px dashed #ccc;margin: 0;font-size: 14px;}
+.cart_group .first{text-align: left;margin-left: 0;}
+.cart_pay{padding: 40px 40px 40px 25px;background-color: #f5f5f5;overflow: hidden;border :1px solid #ddd;}
+.check_box .both_chose{margin-top: -20px;}
+.pro_name{margin-left: 0;text-align: left;padding-top: 30px;font-size:14px;color:#666;}
+.pro_name:hover{color:#b4a078;}
+.one_price,.tot_price{padding-top: 30px;font-size: 14px;}
+.tot_price{color:#d4282d;}
+.num_box_wrap{padding-top: 20px;}
+.num_box{border: 1px solid #ddd; overflow: hidden;width: 134px;height: 30px;}
+.num_box .reduce{border-right: 1px solid #ddd;float: left;width: 36px;height: 30px;line-height: 28px;background: #fff;text-align: center;}
+.num_box input{float: left;width: 60px;height: 30px;line-height: 28px;border:0;outline:none;text-align:center;}
+.num_box .add{float: left;border-left: 1px solid #ddd;float: left;width: 36px;height: 30px;line-height: 28px;text-align: center;}
+.num_box span{cursor: pointer;}
+.num_box span i{font-size:18px;color:#999;font-weight: bold;}
+
+.cart_pay{margin-bottom: 80px;}
+.cart_pay_left span{margin-top: -10px;display: inline-block;font-size: 14px;}
+.cart_pay_left .chose_num{margin-left: 20px;}
+.cart_pay_left .chose_num i{padding-left: 10px;padding-right: 10px;color:#d4282d;}
+.cart_pay_right{text-align: right;width: 280px;}
+.cart_pay_right p{margin-bottom: 20px;}
+.cart_pay_right p label{font-size: 14px;font-weight: normal;}
+.cart_pay_right p span{width: 90px;display: inline-block;font-size:14px;}
+.cart_pay_right .line2{ border-bottom:1px solid #e8e8e8;padding-bottom: 20px;}
+.cart_pay_right .line4 label{padding-right: 30px;}
+.cart_pay_right .line4 span{ font-weight: 700;color: #d4282d;font-size: 20px;}
+.cart_pay_right input{width: 168px;height: 49px; line-height: 47px;font-size: 18px;color: #fff;border: 1px solid #b4a078;background-color: #b4a078;}
+.cart_pay_right input:hover{border: 1px solid #c0ae8a;background-color: #c0ae8a;}

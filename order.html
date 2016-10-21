@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>订单详情</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/order.css">
+	<script src="jquery/jquery_1.11.3.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="jquery/jquery.cookie.js"></script>
+	<script src="js/myJs.js"></script>
+	<script src="js/login.js"></script>
+	<script src="js/order.js"></script>
+</head>
+<body>
+	<!-- 头部 导航 -->
+	<div class="show_wrap">
+		<div class="show clearfix">
+			<a class="tab_logo" href=""></a>
+			<ul class="tab_nav show_tab_nav">
+				<li class="active nav_item"><a href="index.html" class="nav_item_list">首页</a></li>
+				<li class="nav_item">
+					<a class="nav_item_list" href="" title="居家">居家</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="餐厨">餐厨</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="配件">配件</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="服装">服装</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="洗护">洗护</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="婴童">婴童</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="杂货">杂货</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="饮食">饮食</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="其他">其他</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+			</ul>
+			<a href="" class="right shop_cart">
+				<i class="cart left"></i>
+				<i class="shop_num">0</i>
+			</a>
+			<div class="login_regis right"><a href="" class="login">登录</a><a href="" class="register">注册</a></div>
+		</div>
+	</div>
+<!-- 头部 -->
+	<div class="header_wrap">
+		<div id="header">
+			<p class="left">好的生活，没那么贵</p>
+			<div class="right">
+				<ul>
+					<li class="login_regis"><a href="login.html" class="login">登录</a><a href="register.html" class="register">注册</a></li>
+					<li class="attitude"><a href="">严选态度</a></li>
+					<li class="attitude"><a href="">企业采购</a></li>
+					<li class="download">						
+						<a href="html/download.html">
+							<span class="glyphicon glyphicon-phone"></span>下载APP
+							<img src="images/ewm.jpg" class="download_img" alt="">
+						</a>
+					</li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+<!-- 搜索栏	 -->
+	<div class="nav_top">
+		<a href="" class="logo"></a>
+		<div class="right search">
+			<a href="" class="right shop_cart">
+				<i class="cart left"></i>
+				<i class="shop_num">0</i>
+			</a>
+			<div class="right">
+				<input type="text" placeholder="Keds同款帆布鞋" class="search_box">
+				<span class="glyphicon glyphicon-search search_btn"></span>
+			</div>
+		</div>
+	</div>
+<!-- 导航栏 -->
+	<div class="nav_wrap">
+		<div id="nav" class="clearfix">
+			<ul class="tab_nav tot_tab_nav">
+				<li class="active nav_item"><a href="index.html" class="nav_item_list">首页</a></li>
+				<li class="nav_item">
+					<a class="nav_item_list" href="" title="居家">居家</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="餐厨">餐厨</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="配件">配件</a>
+					<div class="nav_dropdown">
+						<ul>
+						</ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="服装">服装</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="洗护">洗护</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="婴童">婴童</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="杂货">杂货</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="饮食">饮食</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item">
+					<a href="" class="nav_item_list" title="其他">其他</a>
+					<div class="nav_dropdown">
+						<ul></ul>
+					</div>
+				</li>
+				<li class="nav_item split"><a href="" class="nav_item_list">专题</a></li>
+				<li class="nav_item"><a href="" class="nav_item_list">甄选家</a></li>
+			</ul>
+		</div>
+	</div>
+<!-- 订单详情 -->
+	<div class="order">
+		<div class="pannel">
+			<p class="order_title">收货信息</p>
+			<div class="address">
+				<button class="new_address">新建地址</button>
+			</div>
+		</div>
+		<div class="pannel">
+			<div class="tab_wrap">
+				<table class="order_info">
+					<thead class="order_title">
+						<tr>
+							<td>商品信息</td>
+							<td>单价</td>
+							<td>数量</td>
+							<td>小计</td>
+							<td>实付</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						</tr>						
+					</tbody>
+				</table>
+			</div>
+			<div class="pay">
+				<div class="pay_left left">
+					<div class="youhui">
+						<p>使用优惠券（0张）</p>
+						<a href="">兑换优惠券</a>
+					</div>
+					<div class="gift">
+						<p>使用礼品卡</p>
+						<input type="checkbox"><span>可用余额 ¥0</span>
+						<a href="">添加礼品卡</a>
+					</div>
+				</div>
+				<div class="pay_right right">
+					<p class="line1"><label for="">商品合计&nbsp;:</label><span>¥235.00</span></p>
+					<p class="line2"><label for="">优惠券&nbsp;:</label><span>¥0.00</span></p>
+					<p class="line3"><label for="">运费&nbsp;:</label><span>¥0.00</span></p>
+					<p class="line4"><label for="">实付&nbsp;:</label><span>¥235.00</span></p>
+					<input type="submit" value="去付款">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="agree">
+		<a class="right" href="">同意《严选平台服务协议》</a>
+		<input class="right" type="checkbox" checked="checked">
+	</div>
+<!-- 底部 -->
+	<div class="promise_wrap">
+		<div class="promise">
+			<ul class="promise_list">
+				<li><i class="icon day_30"></i><span>30天无忧退货</span></li>
+				<li><i class="icon emp_88"></i><span>满88元免邮费</span></li>
+				<li><i class="icon quality"></i><span>网易品质保证</span></li>
+			</ul>
+		</div>		
+	</div>
+	<div class="footer">
+		<p>
+			<ul class="footer_list">
+				<li class="bor_no"><a href="#"> 关于我们 </a></li>
+				<li><a href="#"> 帮助中心 </a></li>
+				<li><a href="#"> 售后服务 </a></li>
+				<li><a href="#"> 配送与验收 </a></li>
+				<li><a href="#"> 商务合作 </a></li>
+				<li><a href="#"> 企业采购  </a></li>
+				<li><a href="#"> 1元夺宝  </a></li>
+			</ul>
+		</p>
+		<p class="banq">网易公司版权所有 ? 1997-2016 ICP证：浙B2-20160106  浙ICP备15041168号   食品经营许可证：JY13301080111719</p>
+	</div>
+</body>
+</html>

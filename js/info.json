@@ -1,0 +1,1190 @@
+{
+  "result": [
+    {
+      "product_list_tit": "热门推荐",
+      "product_list_show": [
+        {
+          "product_name": "牛皮复古公文包",
+          "product_price": "599.00",
+          "product_introduct": "【预售】预计10月25号开始发货",
+          "product_id": "001",
+          "info":{
+              "menu_name":1,
+              "first_show_img":"pic_001.png",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":32
+          }
+        },
+        {
+          "product_name": "葫芦形化妆海绵",
+          "product_price": "39.00",
+          "product_introduct": "特殊隔水工艺，进口材质",
+          "product_id": "002",
+          "info":{
+              "menu_name":2,
+              "first_show_img":"pic_001.png",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":14
+          }
+        },
+        {
+          "product_name": "竹制擀面杖",
+          "product_price": "10.00",
+          "product_introduct": "【预售】预计10月14号开始发货",
+          "product_id": "003",
+          "info":{
+              "menu_name":3,
+              "first_show_img":"pic_001.png",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":10
+          }
+        },
+        {
+          "product_name": "4色可选 铸铁珐琅圆锅22cm",
+          "product_price": "268.00",
+          "product_introduct": "特有循环系统，保持美食原汁原味",
+          "product_id": "004",
+          "info":{
+              "menu_name":4,
+              "first_show_img":"pic_001.png",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":4,
+              "introduce_number":22
+          }
+        },
+        {
+          "product_name": "6双 皮马棉男绅士袜",
+          "product_price": "69.00",
+          "product_introduct": "美国西部皮马棉，奢饰品牌面料首选",
+          "product_id": "005",
+          "info":{
+              "menu_name":5,
+              "first_show_img":"pic_001.jpg",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":17
+          }
+        },
+        {
+          "product_name": "4色可选 2条 男式基础平角内裤",
+          "product_price": "59.00",
+          "product_introduct": "新疆精梳棉，吸汗不闷，无拘无束",
+          "product_id": "006",
+          "info":{
+              "menu_name":6,
+              "first_show_img":"pic_001.jpg",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":17
+          }
+        },
+        {
+          "product_name": "夏日甜心80cm大公仔",
+          "product_price": "329.00",
+          "product_introduct": "柔软快干不变形",
+          "product_id": "007",
+          "info":{
+              "menu_name":7,
+              "first_show_img":"pic_001.jpg",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":0,
+              "introduce_number":5
+          }
+        },
+        {
+          "product_name": "4色可选 日式简约纯色舒棉绒拖鞋",
+          "product_price": "39.00",
+          "product_introduct": "日式简约风格，舒适耐穿",
+          "product_id": "008",
+          "info":{
+              "menu_name":8,
+              "first_show_img":"pic_001.jpg",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":4,
+              "introduce_number":18
+              }
+            },
+        {
+          "product_name": "4色可选 牛津纺英式经典衬衫",
+          "product_price": "149.00",
+          "product_introduct": "柔软牛津纺，英伦式经典腔调",
+          "product_id": "009",
+          "info":{
+              "menu_name":9,
+              "first_show_img":"pic_001.png",
+              "small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+              ],
+              "color_number":4,
+              "introduce_number":7
+              }
+            }
+          ]
+        },
+    {
+      "product_list_tit": "居家",
+      "product_list_show": [
+        {
+          "product_name": "清欢日式可调节落地灯",
+          "product_price": "399.00",
+          "product_introduct": "铁与木的融合，可调节",
+          "product_id": "010",
+          "info":{
+          		"menu_name":10,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":13
+          }
+        },
+        {
+          "product_name": "全棉单面割绒浴室地垫",
+          "product_price": "499.00",
+          "product_introduct": "手工制作，纯棉材质，柔软舒适",
+          "product_id": "011",
+          "info":{
+          		"menu_name":11,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":4,
+          		"introduce_number":25
+          }
+        },
+        {
+          "product_name": "4色可选 全棉针织条纹四件套",
+          "product_price": "69.00",
+          "product_introduct": "裸睡必备",
+          "product_id": "012",
+          "info":{
+          		"menu_name":12,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":4,
+          		"introduce_number":40
+          }
+        },
+        {
+          "product_name": "秋冬保暖加厚细羊毛被",
+          "product_price": "99.00",
+          "product_introduct": "超细绵羊毛，保暖性增加一倍",
+          "product_id": "013",
+          "info":{
+          		"menu_name":13,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":12
+          }
+        },
+        {
+          "product_name": "植物填充护颈夜交藤枕",
+          "product_price": "99.00",
+          "product_introduct": "健康保护枕",
+          "product_id": "014",
+          "info":{
+          		"menu_name":14,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "2色可选 澳洲羊羔毛AB面盖毯",
+          "product_price": "969.00",
+          "product_introduct": "冬暖夏凉，吸湿排汗。",
+          "product_id": "015",
+          "info":{
+          		"menu_name":15,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":18
+          }
+        },
+        {
+          "product_name": "2色可选 升级款记忆绵护椎腰靠",
+          "product_price": "349.00",
+          "product_introduct": "人体工学设计，缓解腰背疼痛",
+          "product_id": "016",
+          "info":{
+          		"menu_name":16,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":31
+          }
+        },
+        {
+          "product_name": "2色可选 多功能午睡枕",
+          "product_price": "79.00",
+          "product_introduct": "放松自在的午后时光",
+          "product_id": "017",
+          "info":{
+          		"menu_name":17,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":13
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "餐厨",
+      "product_list_show": [
+        {
+          "product_name": "2色可选 Carat钻石奶锅18cm",
+          "product_price": "148.00",
+          "product_introduct": "韩国最新设计，中国独家售卖",
+          "product_id": "018",
+          "info":{
+          		"menu_name":18,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":19
+          }
+        },
+        {
+          "product_name": "鸳鸯火锅",
+          "product_price": "256.00",
+          "product_introduct": "【预售】预计10月14号开始发货",
+          "product_id": "019",
+          "info":{
+          		"menu_name":19,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":19
+          }
+        },
+        {
+          "product_name": "日式榉木夹",
+          "product_price": "12.00",
+          "product_introduct": "【预售】预计10月13号开始发货",
+          "product_id": "020",
+          "info":{
+          		"menu_name":20,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":15
+          }
+        },
+        {
+          "product_name": "进口榉木厨具系列",
+          "product_price": "18.00",
+          "product_introduct": "进口榉木，无漆无蜡",
+          "product_id": "021",
+          "info":{
+          		"menu_name":21,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":12
+          }
+        },
+        {
+          "product_name": "3色可选 日式和风条纹餐垫 ",
+          "product_price": "45.00",
+          "product_introduct": "水洗棉，日式简约",
+          "product_id": "022",
+          "info":{
+          		"menu_name":22,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":31
+          }
+        },
+        {
+          "product_name": "3色可选 德式经典保温随手杯",
+          "product_price": "15.00",
+          "product_introduct": "微弧设计，车载单手操作",
+          "product_id": "023",
+          "info":{
+          		"menu_name":23,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":20
+          }
+        },
+        {
+          "product_name": "进口橡胶木圆盘",
+          "product_price": "169.00",
+          "product_introduct": "进口原木，独特纹理",
+          "product_id": "024",
+          "info":{
+          		"menu_name":24,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":11
+          }
+        },
+        {
+          "product_name": "日式酸枣木碗",
+          "product_price": "1999.00",
+          "product_introduct": "细腻纹路，体轻质固",
+          "product_id": "025",
+          "info":{
+          		"menu_name":25,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":27
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "配件",
+      "product_list_show": [
+        {
+          "product_name": "牛皮商务公文包",
+          "product_price": "169.00",
+          "product_introduct": "匠心品质，成就商务时尚",
+          "product_id": "026",
+          "info":{
+          		"menu_name":26,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":32
+          }
+        },
+        {
+          "product_name": "牛皮雅致双肩包",
+          "product_price": "39.00",
+          "product_introduct": "粉色双肩包，女性专属商务时尚",
+          "product_id": "027",
+          "info":{
+          		"menu_name":27,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":32
+          }
+        },
+        {
+          "product_name": "2色可选 优雅格纹羊毛拖鞋 ",
+          "product_price": "99.00",
+          "product_introduct": "羊毛质地，暖心冬日",
+          "product_id": "028",
+          "info":{
+          		"menu_name":28,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":38
+          }
+        },
+        {
+          "product_name": "4色可选 暖暖绒毛包跟家居拖鞋",
+          "product_price": "219.00",
+          "product_introduct": "包跟设计，温暖舒适",
+          "product_id": "029",
+          "info":{
+          		"menu_name":29,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":4,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "牛皮简约拉链钥匙包",
+          "product_price": "359.00",
+          "product_introduct": "双拉链设计，规整收纳",
+          "product_id": "030",
+          "info":{
+          		"menu_name":30,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":34
+          }
+        },
+        {
+          "product_name": "素色信封毛毡MAC包",
+          "product_price": "599.00",
+          "product_introduct": "透气毛毡，柔软保护",
+          "product_id": "031",
+          "info":{
+          		"menu_name":31,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":17
+          }
+        },
+        {
+          "product_name": "简约帆布懒人鞋",
+          "product_price": "39.00",
+          "product_introduct": "轻松不束缚，双脚的时尚自由",
+          "product_id": "032",
+          "info":{
+          		"menu_name":32,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":16
+          }
+        },
+        {
+          "product_name": "2色可选 男士帆船帆布鞋",
+          "product_price": "35.00",
+          "product_introduct": "自由风尚，男人的海军梦想",
+          "product_id": "033",
+          "info":{
+          		"menu_name":33,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":36
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "服装",
+      "product_list_show": [
+        {
+          "product_name": "4色可选 牛津纺英式经典衬衫",
+          "product_price": "79.00",
+          "product_introduct": "柔软牛津纺，英伦式经典腔调",
+          "product_id": "034",
+          "info":{
+          		"menu_name":34,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":4,
+          		"introduce_number":9
+          }
+        },
+        {
+          "product_name": "2色可选 1套 女式棉绒撞色家居服",
+          "product_price": "29.00",
+          "product_introduct": "100%全棉起绒布，古巴领&滚边",
+          "product_id": "035",
+          "info":{
+          		"menu_name":35,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.png"
+          		],
+          		"color_number":2,
+          		"introduce_number":17
+          }
+        },
+        {
+          "product_name": "2色可选 1套 男式速暖功能内衣套装",
+          "product_price": "59.00",
+          "product_introduct": "易受凉部位双层保暖，30min快速升温",
+          "product_id": "036",
+          "info":{
+          		"menu_name":36,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.png"
+          		],
+          		"color_number":2,
+          		"introduce_number":9
+          }
+        },
+        {
+          "product_name": "2色可选 1套 女式速暖功能内衣套装",
+          "product_price": "2998.00",
+          "product_introduct": "易受凉部位双层保暖，30min快速升温",
+          "product_id": "037",
+          "info":{
+          		"menu_name":37,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.png"
+          		],
+          		"color_number":2,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "4色可选 2条 男式基础平角内裤",
+          "product_price": "969.00",
+          "product_introduct": "新疆精梳棉，吸汗不闷，无拘无束",
+          "product_id": "038",
+          "info":{
+          		"menu_name":38,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":17
+          }
+        },
+        {
+          "product_name": "女式安心生理内裤",
+          "product_price": "349.00",
+          "product_introduct": "防止侧后漏，易清洗，安心度过生理期",
+          "product_id": "039",
+          "info":{
+          		"menu_name":39,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":14
+          }
+        },
+        {
+          "product_name": "2双 3色可选 收腹发热纤维连裤袜",
+          "product_price": "79.00",
+          "product_introduct": "进口发热纤维，保暖更舒心",
+          "product_id": "040",
+          "info":{
+          		"menu_name":40,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":16
+          }
+        },
+        {
+          "product_name": "6双 精梳棉双针休闲男袜",
+          "product_price": "79.00",
+          "product_introduct": "双针织法精致，舒适不勒脚",
+          "product_id": "041",
+          "info":{
+          		"menu_name":41,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":26
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "洗护",
+      "product_list_show": [
+        {
+          "product_name": "日式全棉搓澡巾",
+          "product_price": "399.00",
+          "product_introduct": "新疆长绒棉，柔软除尘",
+          "product_id": "042",
+          "info":{
+          		"menu_name":42,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":13
+          }
+        },
+        {
+          "product_name": "防水速干仿亚麻浴帘",
+          "product_price": "499.00",
+          "product_introduct": "防水速干仿亚麻浴帘",
+          "product_id": "043",
+          "info":{
+          		"menu_name":43,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":7
+          }
+        },
+        {
+          "product_name": "12个 卡圈型不锈钢浴帘挂钩",
+          "product_price": "69.00",
+          "product_introduct": "卡圈型不锈钢浴帘挂钩",
+          "product_id": "044",
+          "info":{
+          		"menu_name":44,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":4
+          }
+        },
+        {
+          "product_name": "3色可选 全棉进口埃及长绒棉浴巾",
+          "product_price": "99.00",
+          "product_introduct": "加大加厚埃及棉",
+          "product_id": "045",
+          "info":{
+          		"menu_name":45,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":37
+          }
+        },
+        {
+          "product_name": "声波深层洁面仪",
+          "product_price": "2998.00",
+          "product_introduct": "2款定制刷头，声波温和去污",
+          "product_id": "046",
+          "info":{
+          		"menu_name":46,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "葫芦形化妆海绵",
+          "product_price": "969.00",
+          "product_introduct": "特殊隔水工艺，进口材质",
+          "product_id": "047",
+          "info":{
+          		"menu_name":47,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "匠心天然绵羊角梳",
+          "product_price": "349.00",
+          "product_introduct": "传统工艺，西藏绵羊角",
+          "product_id": "048",
+          "info":{
+          		"menu_name":48,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.png","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":31
+          }
+        },
+        {
+          "product_name": "3色可选 双层柔软沐浴球",
+          "product_price": "79.00",
+          "product_introduct": "双层双色，柔软亲肤，泡沫细腻",
+          "product_id": "049",
+          "info":{
+          		"menu_name":49,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.png","pic_005.png","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":20
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "婴童",
+      "product_list_show": [
+        {
+          "product_name": "婴儿彩棉长爬连体衣",
+          "product_price": "399.00",
+          "product_introduct": "袖口防抓设计，YKK安全按扣",
+          "product_id": "050",
+          "info":{
+          		"menu_name":50,
+          		"first_show_img":"pic_002.jpg",
+          		"small_show_img":["pic_002.jpg","pic_003.png","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":26
+          }
+        },
+        {
+          "product_name": "婴儿彩棉抱被",
+          "product_price": "499.00",
+          "product_introduct": "防风保暖，双层加厚",
+          "product_id": "051",
+          "info":{
+          		"menu_name":51,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":19
+          }
+        },
+        {
+          "product_name": "婴儿彩棉帽子",
+          "product_price": "69.00",
+          "product_introduct": "萌萌双耳造型，贴合额头防着凉",
+          "product_id": "052",
+          "info":{
+          		"menu_name":52,
+          		"first_show_img":"pic_002.png",
+          		"small_show_img":["pic_002.png","pic_007.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "婴幼儿感温浴盆",
+          "product_price": "99.00",
+          "product_introduct": "坐卧两用，把控水温",
+          "product_id": "053",
+          "info":{
+          		"menu_name":53,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":23
+          }
+        },
+        {
+          "product_name": "婴幼儿小象安抚巾",
+          "product_price": "2998.00",
+          "product_introduct": "宝宝的温柔玩伴",
+          "product_id": "054",
+          "info":{
+          		"menu_name":54,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":11
+          }
+        },
+        {
+          "product_name": "婴童超细羊毛子母被",
+          "product_price": "969.00",
+          "product_introduct": "吸湿排汗，不含荧光剂",
+          "product_id": "055",
+          "info":{
+          		"menu_name":55,
+          		"first_show_img":"pic_002.png",
+          		"small_show_img":["pic_002.png","pic_007.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":19
+          }
+        },
+        {
+          "product_name": "儿童棉接结家居服",
+          "product_price": "349.00",
+          "product_introduct": "和风素雅 天然精梳棉",
+          "product_id": "056",
+          "info":{
+          		"menu_name":56,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":15
+          }
+        },
+        {
+          "product_name": "2色可选 独立多层奶粉盒",
+          "product_price": "79.00",
+          "product_introduct": "食用级PP材质，自由组装",
+          "product_id": "057",
+          "info":{
+          		"menu_name":57,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":23
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "杂货",
+      "product_list_show": [
+        {
+          "product_name": "10只 专业防护口罩",
+          "product_price": "399.00",
+          "product_introduct": "过滤效率远超KN95，高达99.26%",
+          "product_id": "058",
+          "info":{
+          		"menu_name":58,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": " 带盖棉麻涤内衣收纳盒",
+          "product_price": "499.00",
+          "product_introduct": "不同规格可选，可视便捷",
+          "product_id": "059",
+          "info":{
+          		"menu_name":59,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":39
+          }
+        },
+        {
+          "product_name": "长方形竹筐收纳篓",
+          "product_price": "69.00",
+          "product_introduct": "软骨支撑，加固底板，拆卸便利",
+          "product_id": "060",
+          "info":{
+          		"menu_name":60,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":11
+          }
+        },
+        {
+          "product_name": "3色可选 女式长柄素色晴雨伞",
+          "product_price": "99.00",
+          "product_introduct": "日本品质全程监管",
+          "product_id": "061",
+          "info":{
+          		"menu_name":61,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":13
+          }
+        },
+        {
+          "product_name": "再生纸双环笔记本",
+          "product_price": "2998.00",
+          "product_introduct": "黑色环扣，80张丰富内页",
+          "product_id": "062",
+          "info":{
+          		"menu_name":62,
+          		"first_show_img":"pic_002.jpg",
+          		"small_show_img":["pic_002.jpg","pic_008.png","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":11
+          }
+        },
+        {
+          "product_name": "3支 直杆三角中性笔",
+          "product_price": "969.00",
+          "product_introduct": "三角笔身，柔中带刚",
+          "product_id": "063",
+          "info":{
+          		"menu_name":63,
+          		"first_show_img":"pic_002.jpg",
+          		"small_show_img":["pic_002.jpg","pic_007.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "四层抽屉式桌面文件柜",
+          "product_price": "349.00",
+          "product_introduct": "独立小隔间，收纳更灵活",
+          "product_id": "064",
+          "info":{
+          		"menu_name":64,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":9
+          }
+        },
+        {
+          "product_name": "2色可选 3个 铝制洗涤用衣架",
+          "product_price": "79.00",
+          "product_introduct": "轻巧又结实，3斤承重",
+          "product_id": "065",
+          "info":{
+          		"menu_name":65,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":4,
+          		"introduce_number":23
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "饮食",
+      "product_list_show": [
+        {
+          "product_name": "风干牛肉 200克",
+          "product_price": "399.00",
+          "product_introduct": "内蒙古草原的美味，唇齿留香",
+          "product_id": "066",
+          "info":{
+          		"menu_name":66,
+          		"first_show_img":"pic_002.jpg",
+          		"small_show_img":["pic_002.jpg","pic_007.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":1,
+          		"introduce_number":14
+          }
+        },
+        {
+          "product_name": "星云酥 180克/3颗",
+          "product_price": "499.00",
+          "product_introduct": "醇香蛋黄融入绿茶，好料层层美味",
+          "product_id": "067",
+          "info":{
+          		"menu_name":67,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":12
+          }
+        },
+        {
+          "product_name": "古田糯耳 200克",
+          "product_price": "69.00",
+          "product_introduct": "一煮即糯，胶质浓稠",
+          "product_id": "068",
+          "info":{
+          		"menu_name":68,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":30
+          }
+        },
+        {
+          "product_name": "古法手工红糖 20克*12袋",
+          "product_price": "99.00",
+          "product_introduct": "云南古法红糖，手工熬制",
+          "product_id": "069",
+          "info":{
+          		"menu_name":69,
+          		"first_show_img":"pic_002.png",
+          		"small_show_img":["pic_002.png","pic_003.png","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":5,
+          		"introduce_number":20
+          }
+        },
+        {
+          "product_name": "武夷大红袍 12袋*8克",
+          "product_price": "2998.00",
+          "product_introduct": "芬芳饱满，清爽回甘",
+          "product_id": "070",
+          "info":{
+          		"menu_name":70,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":13
+          }
+        },
+        {
+          "product_name": "台湾手工牛轧糖 250克",
+          "product_price": "69.00",
+          "product_introduct": "地道台湾味，融于口，甜于心",
+          "product_id": "071",
+          "info":{
+          		"menu_name":71,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":10
+          }
+        },
+        {
+          "product_name": "香辣小银鱼 125克",
+          "product_price": "349.00",
+          "product_introduct": "辣椒的辛香与芝麻的鲜香完美融合",
+          "product_id": "072",
+          "info":{
+          		"menu_name":72,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.png","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":19
+          }
+        },
+        {
+          "product_name": "夹心海苔 60克",
+          "product_price": "79.00",
+          "product_introduct": "出口欧美品质，尽享多层海滋味",
+          "product_id": "073",
+          "info":{
+          		"menu_name":73,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":17
+          }
+        }
+      ]
+    },
+    {
+      "product_list_tit": "其他",
+      "product_list_show": [
+        {
+          "product_name": "夏日甜心双层纱家居服",
+          "product_price": "399.00",
+          "product_introduct": "温柔精梳棉，粉甜大猫熊",
+          "product_id": "074",
+          "info":{
+          		"menu_name":74,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":21
+          }
+        },
+        {
+          "product_name": "2条 夏日甜心刺绣毛巾",
+          "product_price": "499.00",
+          "product_introduct": "蓬松柔软，吸水性强",
+          "product_id": "075",
+          "info":{
+          		"menu_name":75,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":26
+          }
+        },
+        {
+          "product_name": "2色可选 加厚绒面多用防水户外垫",
+          "product_price": "69.00",
+          "product_introduct": "耐磨耐脏，细腻温暖",
+          "product_id": "076",
+          "info":{
+          		"menu_name":76,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":24
+          }
+        },
+        {
+          "product_name": "2色可选 夏日甜心笔记本",
+          "product_price": "99.00",
+          "product_introduct": "空白内页，随性书写",
+          "product_id": "077",
+          "info":{
+          		"menu_name":77,
+          		"first_show_img":"pic_001.png",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":23
+          }
+        },
+        {
+          "product_name": "夏日甜心纯棉柔巾",
+          "product_price": "2998.00",
+          "product_introduct": "天然棉花之作，舒适无敏感",
+          "product_id": "078",
+          "info":{
+          		"menu_name":78,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":0,
+          		"introduce_number":18
+          }
+        },
+        {
+          "product_name": "夏日甜心方抱枕",
+          "product_price": "969.00",
+          "product_introduct": "甜心宝贝的温度，抱枕知道",
+          "product_id": "079",
+          "info":{
+          		"menu_name":79,
+          		"first_show_img":"pic_002.jpg",
+          		"small_show_img":["pic_002.jpg","pic_003.png","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":9
+          }
+        },
+        {
+          "product_name": "2色可选 夏日甜心四件套",
+          "product_price": "349.00",
+          "product_introduct": "甜心宝贝最爱，来至针织棉的呵护",
+          "product_id": "080",
+          "info":{
+          		"menu_name":80,
+          		"first_show_img":"pic_002.png",
+          		"small_show_img":["pic_002.png","pic_007.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":3,
+          		"introduce_number":17
+          }
+        },
+        {
+          "product_name": "2色可选 便携式多功能防水户外垫",
+          "product_price": "79.00",
+          "product_introduct": "防水便携，出游必备",
+          "product_id": "081",
+          "info":{
+          		"menu_name":81,
+          		"first_show_img":"pic_001.jpg",
+          		"small_show_img":["pic_002.png","pic_003.jpg","pic_004.jpg","pic_005.jpg","pic_006.jpg"
+          		],
+          		"color_number":2,
+          		"introduce_number":13
+          }
+        }
+      ]
+    }
+  ],
+  "string": "product_list",
+  "boolean": true
+}
