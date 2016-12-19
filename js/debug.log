@@ -1,0 +1,4 @@
+[1102/161134:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[1102/161238:WARNING:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1102/161247:WARNING:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1102/163809:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
